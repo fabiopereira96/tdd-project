@@ -1,0 +1,12 @@
+O processo de TDD consiste de 4 passos bases, iniciamos escrevendo
+um teste de unidade para um determinado método que será implementado
+após isso, executamos nosso teste de unidade e verificamos se ele falha,
+caso falhe, escrevemos um código para que nosso teste passe. Posteriormente,
+executamos novamente nosso teste, verificamos que o teste de unidade passa e, por fim,
+verificamos se existe a necessidade de refatoração do código criado. 
+
+O fluxo com a inclusão de Testes Funcionais adiciona uma camada superior aos 
+passos explicados acimna, com ele, criamos testes funcionais, executamos-o e verficamos 
+se eles passam com sucesso. Caso não passem, iniciamos o fluxo de TDD com os testes
+de unidade normalmente adotado, senão, verificamos a necessidade de refatoração.
+
