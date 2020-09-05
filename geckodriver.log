@@ -22,3 +22,25 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1599341240684	Marionette	INFO	Listening on port 60804
 1599341240765	Marionette	WARN	TLS certificate errors will be ignored for this session
 1599341241204	Marionette	INFO	Stopped listening on port 60804
+1599342100016	geckodriver	INFO	Listening on 127.0.0.1:60923
+1599342101037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w7/77xt599j7d34134hzjnpmmdw0000gp/T/rust_mozprofileDEuaQE"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599342104642	Marionette	INFO	Listening on port 60936
+1599342104726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599342105056	Marionette	INFO	Stopped listening on port 60936
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1599342126481	geckodriver	INFO	Listening on 127.0.0.1:60997
+1599342127497	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w7/77xt599j7d34134hzjnpmmdw0000gp/T/rust_mozprofile9aHlCW"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599342130186	Marionette	INFO	Listening on port 61008
+1599342130296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599342130753	Marionette	INFO	Stopped listening on port 61008
+1599342188358	geckodriver	INFO	Listening on 127.0.0.1:61062
+1599342189378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w7/77xt599j7d34134hzjnpmmdw0000gp/T/rust_mozprofilejaGg6m"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599342191988	Marionette	INFO	Listening on port 61069
+1599342192061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+1599342193603	Marionette	INFO	Stopped listening on port 61069
