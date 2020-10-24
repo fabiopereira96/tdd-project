@@ -351,3 +351,20 @@ console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Err
 1603570370128	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
 1603570375697	Marionette	INFO	Stopped listening on port 64988
+1603572485387	geckodriver	INFO	Listening on 127.0.0.1:65366
+1603572486396	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w7/77xt599j7d34134hzjnpmmdw0000gp/T/rust_mozprofileBviTkK"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603572490690	Marionette	INFO	Listening on port 65373
+1603572490730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603572491140	Marionette	INFO	Stopped listening on port 65373
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1603572645842	geckodriver	INFO	Listening on 127.0.0.1:65463
+1603572646856	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/w7/77xt599j7d34134hzjnpmmdw0000gp/T/rust_mozprofilegs572z"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1603572649620	Marionette	INFO	Listening on port 65470
+1603572649630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+1603572655498	Marionette	INFO	Stopped listening on port 65470
